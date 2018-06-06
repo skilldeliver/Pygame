@@ -1,2 +1,2 @@
 # pygame
-Repository for my pygame projects
+Repository for my Pygame projects with Python
