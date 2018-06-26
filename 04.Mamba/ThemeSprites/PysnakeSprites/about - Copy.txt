@@ -1,0 +1,15 @@
+Story: This game is made for the "Snake Game Month!" challenge which initiator is Anthony Cook.
+It is my first OOP project and I tried to made the theme function friendly for changes so that the 
+user can personalize or add themes. Unfortunately you need some programming and pygame skills for this purpose.
+
+Controls: Default control keys for controling the snake are W, A, S, D  and ↑, ←, ↓, →. I didn't add third option
+or shortcut in the source code for changes because I think it is not appropriate. I mean which keys for direction
+are used as much as the above keys? And for pause while playing - "ESC" or "P".
+
+Software and Technology: VS Code, Photshop CC, Python 3, Pygame
+
+Sources of the used media files are in "usedfiles.txt".
+This game have and a GitHub repository and if you made new theme or cool changes feel free to contribute.
+
+Connect or follow me:
+

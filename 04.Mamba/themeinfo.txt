@@ -1,0 +1,52 @@
+
+For the folks who may be interested in creating theme I decided to add this guide file.
+
+Before the essential part I should say that you need a little bit of photo editing, programming and GitHub skills.
+The third one is optional because you can just connect with me and send me your work.
+
+Here are the GUIDE steps:
+    1. Open the mambathemes.py file.
+        This is the file where you can add your changes
+    2. There you will find a blueprint (form) of dictionary named "yourTheme"
+    3. Make copy of this dictionary blueprint and and uncomment the copy.
+        Please let the original blueprint stay there uncommented.
+    4. Paste your uncommented copy in the function.
+    5. Fill it with your values (check down bellow FILLING steps) and name the dictionary with your theme name.
+    6. After you filled your dictionary copy with appropriate values type - themes.append(yourTheme).
+        This should be done after dictionary initializing and themes declaring.
+
+FILLING STEPS:
+    To have working theme you need to fill all dict values.
+    * Include all image files with convert() or convert_alpha()
+
+    1. First change the name of the the dictionary with your theme name
+        Your theme name should be different from other theme names
+    2. "themeThumb" key - this is for your theme thumbnail
+        - must be image file supported by Pygame
+        In the theme section when you review themes - every theme have showcase image
+        * add your name (or nickname) on any corner on your theme image
+        * for better looking add border on your theme image
+    3. "snakeElement" key- this is the snake body element, the tile if you want.
+        - must be image file supported by Pygame
+    4. "gameBack" key - this is for the game background
+        - must be image file supported by Pygame
+        - must be in display resolution (1000, 700)
+    5. "snakeHead" key - this is dictionary for the head element of the snake game
+        - must be image file supported by Pygame
+        - you can pass the same image for all keys if your head element it is not orientation sensitive
+        (This means for example if your head have eyes or something like that - it is orientation sensitive)
+    6. "foodIMG" key - this is for the image of the food
+        - must be image file supported by Pygame
+    7. "font" key - this is for the font of the text which displays the lenght of the snake
+        - let it be popular font supported by many OS's
+        - you can use and your font but include it in Sprites folder of your theme
+    8. "colortext" key - this is for the color of the text which displays the lenght of the snake
+        - must be tuple of three values (R, G, B)
+    9. "textboxCord" key - this is for the cordinaates of the text which displays the lenght of the snake
+        - must be tuple of two values (x and y)
+    10. Set the scale of all element to be appropriate - hint - transform module
+    11. Include your folder of sprites in ThemeSprites
+        name it in this format - yourThemeSprites
+        where yourTheme is your theme
+
+        * add about.txt file, there list the sources of used files (if there are), and tell something (if you want)
