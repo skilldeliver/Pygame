@@ -12,10 +12,10 @@ There are 4 games in my Pygame repository. In the first game you control space s
 Second one is a replication of the famous scare jump game - The Scary Maze game. Third one it is not game but a tool for drawing. And the final one is classic snake game the snake is (Python) and the food (Other languages).
 
 ### Here is my own rating for this games:
-1. Mamba - :star: :star: :star: :star: :star:
+1. Mamba -                 :star: :star: :star: :star: :star:
 1. Shuttle and Obstacles - :star: :star: :star: :star:
-1. Drawing Tool - :star: :star:
-1. Scary Maze Game - :star:
+1. Drawing Tool -          :star: :star:
+1. Scary Maze Game -       :star:
 
 ## Thoughts
 
