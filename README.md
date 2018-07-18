@@ -15,5 +15,6 @@ Learn **web development** or other field, if you still like **game development**
 In **Pygame** there is no big **community** and **support**, it is not so **effective**, **fucntional** and **fast**, that is why you can't **develop**, find a **job** with it or make **big profit**.
 
 
-
+    some-var = 5
+    if some-var: pass
     print("Pygame is a simple module great for beginners but on some point if you want to get better - move on.")
