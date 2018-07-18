@@ -17,6 +17,15 @@ Second one is a **replication** of the famous scare jump game - **The Scary Maze
 1. **Drawing Tool** - :star: :star:
 1. **Scary Maze Game** - :star:
 
+## Social Networking
+
+* [Anthony Cook](https://web.facebook.com/anthony.cook78)
+* [Ulisses Gandini](https://web.facebook.com/iceoffire)
+* [Al Sweigart](https://twitter.com/AlSweigart)
+ 
+ Found cool people in the [Pygame facebook group](https://web.facebook.com/groups/pygame/).
+ 
+
 ## Thoughts
 
 The conclusion is that I learned how to use **statements**, **expressions**, **loops**, **functions** and **classes**. :chart_with_upwards_trend:
