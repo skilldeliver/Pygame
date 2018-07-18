@@ -8,8 +8,8 @@ Later on I started designing and creating my own **games** with the **Pygame** m
 
 ## Content
 
-There are 4 **games** in my **Pygame** repository. In the first game you control **space shuttle** trying not to crash with **obstacles**.
-Second one is a **replication** of the famous scare jump game - **The Scary Maze** game. Third one it is not game but a **tool for drawing**. And the final one is **classic snake game** the **snake** is (Python) and the **food** (Other languages).
+There are 4 **games** in my **Pygame** repository. In the first game you control **space shuttle** :rocket: trying not to crash with **obstacles**.
+Second one is a **replication** of the famous scare jump game - **The Scary Maze** game :wink:. Third one it is not game but a **tool for drawing** :art:. And the final one is **classic snake game** :snake: the **snake** is (Python) and the **food** (Other languages).
 
 #### Here is my own rating for this games:
 1. **Mamba** - :star: :star: :star: :star: :star:
@@ -19,7 +19,7 @@ Second one is a **replication** of the famous scare jump game - **The Scary Maze
 
 ## Thoughts
 
-The conclusion is that I learned how to use **statements**, **expressions**, **loops**, **functions** and **classes**.
+The conclusion is that I learned how to use **statements**, **expressions**, **loops**, **functions** and **classes**. :chart_with_upwards_trend:
 I think **Pygame** and this type of simple **game development** is excellent for **beginners**, development of **logical thinking**,
 learning the basics of **programming**, etc... But for long term don't get stuck with **Pygame**. 
 Learn **web development** or other field, if you still like **game development** - great, move on **Unity** for example.
