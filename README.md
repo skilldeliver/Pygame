@@ -1,4 +1,4 @@
-# Pygame
+# Pygame ![alt text](https://files.realpython.com/media/pygame-logo.e78e57db3000.png "Logo Title Text 1")
 ## Repository for my Pygame projects with Python.
 
 In the past I had unsuccessful attempts to learn **programming**, I tried with **C++** and **JavaScript**. Fortunately in early 2018 I found **Python** :heart_eyes:.
