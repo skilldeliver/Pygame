@@ -4,7 +4,7 @@
 In the past I had unsuccessful attempts to learn **programming**, I tried with **C++** and **JavaScript**. Fortunately in early 2018 I found **Python** :heart_eyes:.
 I went through the [Codeacademy Python course](https://www.codecademy.com/learn/learn-python) then I solved many **problems** and 
 read two **books** of [Al Sweigart](https://twitter.com/AlSweigart).
-Later on I started designing and creating my own **games** with the **Pygame** module.
+Later on I started designing and creating my own **games** with the **Pygame** module. :sunglasses:
 
 ## Content
 
