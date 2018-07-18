@@ -20,10 +20,11 @@ Second one is a **replication** of the famous scare jump game - **The Scary Maze
 ## Thoughts
 
 The conclusion is that I learned how to use **statements**, **expressions**, **loops**, **functions** and **classes**. :chart_with_upwards_trend:
-I think **Pygame** and this type of simple **game development** is excellent for **beginners**, development of **logical thinking**,
-learning the basics of **programming**, etc... But for long term don't get stuck with **Pygame**. 
+
+I think **Pygame** and this type of simple **game development** :video_game: is excellent for **beginners**, development of **logical thinking**,
+learning the basics of **programming** :computer:, etc... But for long term don't get stuck with **Pygame**. 
 Learn **web development** or other field, if you still like **game development** - great, move on **Unity** for example.
-In **Pygame** there is no big **community** and **support**, it is not so **effective**, **fucntional** and **fast**, that is why you can't **develop**, find a **job** with it or make **big profit**.
+In **Pygame** there is no big **community** and **support**, it is not so **effective**, **fucntional** and **fast**, that is why you can't **develop**, find a **job** with it or make **big profit**. :money_with_wings:
 
 
 ```python
